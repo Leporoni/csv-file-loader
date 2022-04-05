@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="open_csv_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/open_csv_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/open_csv_jar" recursive="false" />
+  </library>
+</component>
